@@ -1,0 +1,31 @@
+{
+  "name": "zoom-launcher",
+  "version": "1.0.0",
+  "description": "macOS util that inspects your Calendar.app calendars for zoom events and launches them.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "main.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "zoom": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/adamyonk/zoom-launcher"
+  },
+  "keywords": [
+    "zoom",
+    "video",
+    "cli"
+  ],
+  "author": "Adam Jahnke <adamyonk@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.0.84",
+    "inquirer": "^6.2.0"
+  }
+}

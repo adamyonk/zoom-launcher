@@ -26,6 +26,6 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "inquirer": "^6.2.0"
+    "inquirer": "^7.3.3"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "zoom-launcher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "macOS util that inspects your Calendar.app calendars for zoom events and launches them.",
   "main": "index.js",
   "files": [
